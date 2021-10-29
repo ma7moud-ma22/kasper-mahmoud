@@ -303,10 +303,6 @@ header .container nav ul li a:hover {
     left: 0;
   }
 }
-.landing .overlay .land-content:hover .text1 {
-  animation-play-state: paused;
-}
-
 /* =====================end landind ====================*/
 
 /* ----------------------start Services------------------- */
